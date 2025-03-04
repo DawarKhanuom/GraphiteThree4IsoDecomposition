@@ -1,4 +1,0 @@
-# Default plugins bundled with Graphite distribution
-add_subdirectory(gompy)
-add_subdirectory(WarpDrive)
-add_subdirectory(RayTracing)
